@@ -10,8 +10,6 @@
 # 3) if the input string does not meet the above reqs, then prints the input string again
 
 
-# Compare the third char from the right to a list of consonants, if found - slice string at index-1 and add 'our'
-
 done = False
 
 while not done:
