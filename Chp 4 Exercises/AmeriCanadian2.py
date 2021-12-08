@@ -1,5 +1,6 @@
 # Aaron Taylor, aaronjtaylor42@gmail.com
 # DMOJ ccc02j2, AmeriCanadian
+# This is a slightly different solution to the problem, and I personally like this one better
 # INPUT: a string of lowercase letters
 # american_word = input()
 # OUTPUT: a string
