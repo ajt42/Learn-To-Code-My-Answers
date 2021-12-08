@@ -5,7 +5,7 @@
 # OUTPUT: a string
 # print(american_word)
 # RULES:
-# 1) if the input string is 'quit!', the program terminates
+# 1) if the input string == 'quit!', the program terminates
 # 2) the input string has to be longer than 4 characters and consist of a consonant followed by 'or'
 # 3) if the input string does not meet the above reqs, then prints the input string again
 
